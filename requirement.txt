@@ -1,1 +1,1 @@
-py -m pip install Flask
+python3 -m pip install Flask
