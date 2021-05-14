@@ -24,7 +24,3 @@ def highscores():
     else:
         list_view = "no record yet :c"
     return list_view
-
-
-if __name__ == "__main__":
-    app.run(port=4996)
